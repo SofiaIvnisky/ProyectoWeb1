@@ -1,2 +1,2 @@
-# proyecto_web_1
+# Proyecto de programación web de prueba
 ProyectoWeb1
